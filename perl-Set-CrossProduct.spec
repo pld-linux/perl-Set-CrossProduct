@@ -8,13 +8,13 @@
 Summary:	Set::CrossProduct Perl module - work with the cross product of two or more sets
 Summary(pl):	Modu³ Perla Set::CrossProduct - u³atwienie pracy z iloczynem kartezjañskim zbiorów
 Name:		perl-Set-CrossProduct
-Version:	1.4
-Release:	4
+Version:	1.5
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	30c00c9be328b1b30e5e021595917df3
+# Source0-md5:	b55cf4a96f94b96c7dcfc720bc24ad46
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
