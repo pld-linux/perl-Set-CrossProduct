@@ -33,7 +33,7 @@ s1 => S(1), s2 => S(2), ... sk => S(k). }.
 %setup -q -n %{pdir}-%{pnam}-%{version}
 
 %build
-perl Makefile.PL
+%{__perl} Makefile.PL
 %{__make}
 
 %{!?_without_tests:%{__make} test}
