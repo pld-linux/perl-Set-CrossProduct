@@ -10,7 +10,8 @@ Summary(pl):	Modu³ Perla Set::CrossProduct - u³atwienie pracy z iloczynem kartez
 Name:		perl-Set-CrossProduct
 Version:	1.4
 Release:	3
-License:	GPL/Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	30c00c9be328b1b30e5e021595917df3
