@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Set
-%define	pnam	CrossProduct
+%define		pdir	Set
+%define		pnam	CrossProduct
 Summary:	Set::CrossProduct Perl module - work with the cross product of two or more sets
 Summary(pl):	Modu³ Perla Set::CrossProduct - u³atwienie pracy z iloczynem kartezjañskim zbiorów
 Name:		perl-Set-CrossProduct
