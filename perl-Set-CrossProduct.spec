@@ -35,7 +35,7 @@ s1 => S(1), s2 => S(2), ... sk => S(k). }.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %{!?_without_tests:%{__make} test}
