@@ -4,8 +4,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Set
 %define	pnam	CrossProduct
-Summary:	Set::CrossProduct - work with the cross product of two or more sets
-Summary(pl):	Modu³ Set::CrossProduct - u³atwiaj±cy pracê z iloczynem kartezjañskim zbiorów
+Summary:	Set::CrossProduct Perl module - work with the cross product of two or more sets
+Summary(pl):	Modu³ Perla Set::CrossProduct - u³atwienie pracy z iloczynem kartezjañskim zbiorów
 Name:		perl-Set-CrossProduct
 Version:	1.4
 Release:	3
