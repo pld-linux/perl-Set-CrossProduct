@@ -6,7 +6,7 @@
 %define		pdir	Set
 %define		pnam	CrossProduct
 Summary:	Set::CrossProduct Perl module - work with the cross product of two or more sets
-Summary(pl):	Modu≥ Perla Set::CrossProduct - u≥atwienie pracy z iloczynem kartezjaÒskim zbiorÛw
+Summary(pl.UTF-8):   Modu≈Ç Perla Set::CrossProduct - u≈Çatwienie pracy z iloczynem kartezja≈Ñskim zbior√≥w
 Name:		perl-Set-CrossProduct
 Version:	1.8
 Release:	1
@@ -26,10 +26,10 @@ n(k) respectively, the cross product of the sets is the set CP of
 ordered tuples such that { <s1, s2, ..., sk> | s1 => S(1), s2 => S(2),
 ... sk => S(k). }
 
-%description -l pl
-Dane s± zbiory S(1), S(2), ... S(k), kaødy  o liczno∂ci odpowiednio
-n(1), n(2), ... n(k). Iloczynem kartezjaÒskim (produktem) tych zbiorÛw
-jest zbiÛr CP uporz±dkowanych krotek, takich øe { <s1, s2, ... sk> |
+%description -l pl.UTF-8
+Dane sƒÖ zbiory S(1), S(2), ... S(k), ka≈ºdy  o liczno≈õci odpowiednio
+n(1), n(2), ... n(k). Iloczynem kartezja≈Ñskim (produktem) tych zbior√≥w
+jest zbi√≥r CP uporzƒÖdkowanych krotek, takich ≈ºe { <s1, s2, ... sk> |
 s1 => S(1), s2 => S(2), ... sk => S(k). }.
 
 %prep
