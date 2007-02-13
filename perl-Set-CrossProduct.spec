@@ -6,7 +6,7 @@
 %define		pdir	Set
 %define		pnam	CrossProduct
 Summary:	Set::CrossProduct Perl module - work with the cross product of two or more sets
-Summary(pl.UTF-8):   Moduł Perla Set::CrossProduct - ułatwienie pracy z iloczynem kartezjańskim zbiorów
+Summary(pl.UTF-8):	Moduł Perla Set::CrossProduct - ułatwienie pracy z iloczynem kartezjańskim zbiorów
 Name:		perl-Set-CrossProduct
 Version:	1.8
 Release:	1
